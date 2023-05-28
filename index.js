@@ -1,6 +1,7 @@
 /**
  * Aplica a cor #BECCC3 no background do body da página
  */
+
 function background(){
 
     /**
